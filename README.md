@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Java Full Stack Developer 👋<br><br>## About Me<br>A passionate Java Full Stack Developer and B.Tech CSE graduate. I specialize in building robust web applications using Spring Boot and have hands-on experience in developing end-to-end applications. My focus is on creating efficient, scalable solutions with clean code practices.<br><br>## 🎓 Education & Certification<br>- **B.Tech in Computer Science and Engineering**<br>- **Java Full Stack Developer Certification**<br>  - Comprehensive training in modern web technologies<br>  - Hands-on experience with Spring Boot and React.js<br><br>## 💻 Technical Skills<br><br>### Programming Languages<br>- Java (Core & Advanced)<br>- JavaScript<br>- HTML5 & CSS3<br>- SQL<br><br>### Frameworks & Technologies<br>- Spring Boot<br>- Spring MVC<br>- Spring Security<br>- Hibernate/JPA<br>- RESTful APIs<br>- React.js<br>- Maven<br>- Git & GitHub<br><br>### Databases<br>- MySQL<br>- Oracle<br><br>## 🛠️ Projects<br><br>1. **Bank Management System**<br>   - Developed a comprehensive banking solution using Spring Boot<br>   - Implemented secure user authentication and authorization<br>   - Features include account management, transaction history, and balance tracking<br>   - Technologies: Spring Boot, MySQL, Spring Security, JPA<br>   - Role: Full Stack Developer<br><br>2. **Car Rental Management System**<br>   - Built a complete car rental platform with booking management<br>   - Implemented vehicle inventory, booking system, and user management<br>   - Features include car availability checking and rental history<br>   - Technologies: Spring Boot, MySQL, RESTful APIs<br>   - Role: Full Stack Developer<br><br>3. **Amazon Invoice Generator**<br>   - Created an automated invoice generation system<br>   - Implemented PDF generation for invoices<br>   - Features include custom invoice templates and data validation<br>   - Technologies: Spring Boot, MySQL, PDF Generation APIs<br>   - Role: Full Stack Developer<br><br>## 🌱 Currently Learning<br>- Microservices Architecture<br>- Docker<br>- AWS Cloud Services<br><br>## 📫 Connect With Me<br>- LinkedIn: [Rahul Pamukuntla](https://www.linkedin.com/in/Rahul-pamukuntla-825324175)<br>- Email: rahulpamukuntla@gmail.com<br><br>## 📊 GitHub Stats<br>![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpamukuntla&show_icons=true&theme=radical)<br><br>## 🤝 Open to Opportunities<br>Currently looking for opportunities as a Java Full Stack Developer. Open to both full-time positions and collaborative projects.<br><br>---<br>⭐️ From [rahulpamukuntla](https://github.com/rahulpamukuntla)<br>
 
-<!--
-**RahulPamukuntla/RahulPamukuntla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Rahul-pamukuntla-825324175) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahul pamukuntla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahul pamukuntla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul pamukuntla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rahulpamukuntla&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   
